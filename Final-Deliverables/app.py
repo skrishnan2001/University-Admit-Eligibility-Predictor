@@ -125,7 +125,7 @@ if st.sidebar.checkbox('View Prediction Model'):
     # pickle_in = open('models/Multiple_Linear_Regression.pkl', 'rb')
     # model = pickle.load(pickle_in)
 
-    API_KEY = "O-xbXqcCv2iPGZfem_krJ8KX-kQ2h5bKybYpPwY-gOfl"
+    API_KEY = "<Your API-KEY>"
     token_response = requests.post('https://iam.cloud.ibm.com/identity/token', data={"apikey":
     API_KEY, "grant_type": 'urn:ibm:params:oauth:grant-type:apikey'})
     mltoken = token_response.json()["access_token"]
