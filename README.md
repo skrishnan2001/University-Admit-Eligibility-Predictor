@@ -3,6 +3,8 @@
   <br/>
    <h1>University Admit Eligibility Predictor</h1>
    <h3>Team Members: Eswaramoorty K, Krishnan S, Rohith S, Vishnu Vasan R </h3>
+   
+   <a href="https://youtu.be/7QL70hZYLVQ">Demo Link</a>
 </div>
 
 ### Abstract
