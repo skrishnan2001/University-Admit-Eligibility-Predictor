@@ -18,3 +18,20 @@ streamlit run app.py
 ```
 localhost:8051
 ```
+
+
+### Alternatively to use the containerized project, follow the steps
+- Build the docker image
+```
+docker build -t <img_name> .
+```
+
+- Build container and run the application locally
+```
+docker run -p <port>:<port> <img_name>
+```
+
+- You can access the containerized application in 
+```
+localhost:<port>
+```
