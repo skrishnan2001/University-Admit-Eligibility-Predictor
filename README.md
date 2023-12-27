@@ -37,7 +37,7 @@ Students are often worried about their chances of admission to University. The a
 
 
 ## Architecture Diagram
-![Screenshot](https://github.com/IBM-EPBL/IBM-Project-1635-1658406225/blob/master/Images/UAEP_Architecture.png)
+![Screenshot](https://github.com/skrishnan2001/University-Admit-Eligibility-Predictor/blob/master/Images/UAEP_Architecture.png)
 
 
 
